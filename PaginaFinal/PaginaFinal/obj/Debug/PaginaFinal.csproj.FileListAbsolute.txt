@@ -1,0 +1,4 @@
+c:\users\moises\documents\visual studio 2010\Projects\PaginaFinal\PaginaFinal\bin\PaginaFinal.dll
+c:\users\moises\documents\visual studio 2010\Projects\PaginaFinal\PaginaFinal\bin\PaginaFinal.pdb
+c:\users\moises\documents\visual studio 2010\Projects\PaginaFinal\PaginaFinal\obj\Debug\PaginaFinal.dll
+c:\users\moises\documents\visual studio 2010\Projects\PaginaFinal\PaginaFinal\obj\Debug\PaginaFinal.pdb

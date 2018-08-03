@@ -1,8 +1,0 @@
-c:\users\moises\documents\visual studio 2010\Projects\PrimerSitioP\PrimerSitioP\bin\PrimerSitioP.dll
-c:\users\moises\documents\visual studio 2010\Projects\PrimerSitioP\PrimerSitioP\bin\PrimerSitioP.pdb
-c:\users\moises\documents\visual studio 2010\Projects\PrimerSitioP\PrimerSitioP\bin\PrimerSitioP.xml
-c:\users\moises\documents\visual studio 2010\Projects\PrimerSitioP\PrimerSitioP\obj\Debug\PrimerSitioP.Resources.resources
-c:\users\moises\documents\visual studio 2010\Projects\PrimerSitioP\PrimerSitioP\obj\Debug\PrimerSitioP.vbproj.GenerateResource.Cache
-c:\users\moises\documents\visual studio 2010\Projects\PrimerSitioP\PrimerSitioP\obj\Debug\PrimerSitioP.dll
-c:\users\moises\documents\visual studio 2010\Projects\PrimerSitioP\PrimerSitioP\obj\Debug\PrimerSitioP.xml
-c:\users\moises\documents\visual studio 2010\Projects\PrimerSitioP\PrimerSitioP\obj\Debug\PrimerSitioP.pdb

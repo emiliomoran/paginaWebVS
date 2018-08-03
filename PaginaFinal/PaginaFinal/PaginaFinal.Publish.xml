@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="C:\SomeeDeploy" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Somee" publishMethod="FileSystem" replaceMatchingFiles="True" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="Principal.aspx" publishTime="08/03/2018 15:01:43" />
+    <file relUrl="fonts.css" publishTime="04/29/2014 20:41:12" />
+    <file relUrl="Report.aspx" publishTime="08/03/2018 14:57:08" />
+    <file relUrl="estilos.css" publishTime="08/02/2018 23:37:18" />
+    <file relUrl="Login.aspx" publishTime="08/03/2018 01:08:02" />
+    <file relUrl="Web.config" publishTime="08/03/2018 16:31:14" />
+    <file relUrl="bin/PaginaFinal.dll" publishTime="08/03/2018 16:31:11" />
+    <file relUrl="Register.aspx" publishTime="08/03/2018 01:08:36" />
+    <file relUrl="images/image.jpg" publishTime="08/03/2018 14:59:49" />
+    <file relUrl="default.css" publishTime="08/03/2018 01:07:21" />
+    <file relUrl="bin/PaginaFinal.pdb" publishTime="08/03/2018 16:31:11" />
+  </publishProfile>
+</publishData>
